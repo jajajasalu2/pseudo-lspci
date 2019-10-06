@@ -1,0 +1,7 @@
+# Standard python ignores follow
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+.pytest_cache/
+*.py[cod]
+*$py.class
